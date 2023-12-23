@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marouan Daghmoumi</h1>
 <h3 align="center">A passionate AI and Data science student</h3>
 
-![image](https://github.com/Marouan19/Marouan19/assets/114506117/eef290be-f2e4-4fdf-af03-760361abe39d)
+
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
