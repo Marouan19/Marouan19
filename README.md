@@ -1,3 +1,5 @@
+<img width=100% alt="welcom to my profile " src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif"/>
+
 <h1 align="center">Hi 👋, I'm Marouan Daghmoumi</h1>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=AI+and+Data+science+student;Software+developer" alt="Typing SVG" /></div>
