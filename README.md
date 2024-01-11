@@ -4,8 +4,7 @@
 <br>
 <div style="display: flex; justify-content: center; align-items: center;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=AI+and+Data+science+student;Software+developer" alt="Typing SVG" /></div>
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'>
 
 
 <h3 align="left">Connect with me:</h3>
